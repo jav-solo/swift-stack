@@ -45,7 +45,7 @@ class Stack<T> {
 	
 	/// This function pushes a new item on the top of the stack
 	///
-	///
+	/// - Returns: True if successfully added the new item, else False
 	public func push(_ item: T?) -> Bool {
 		if length + 1 == MAXIMUM_NUMBER_OF_ELEMENTS {
 			return false
@@ -56,6 +56,9 @@ class Stack<T> {
 		return true
 	}
 	
+	/// This function returns the element at the top of the stack
+	///
+	/// - Returns: The node at the top of the Stack
 	public func top() -> T? {
 		return nodes[length - 1]
 	}
