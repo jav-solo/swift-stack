@@ -10,4 +10,4 @@ Data structure includes the following methods
 
 For adding, removing, and reading the Stack respectively
 
-Please read my article on my website [here]()
+Please read the associated article on my website [here](https://javsolo.codes/reference/data-structures-in-swift-article-0/)
