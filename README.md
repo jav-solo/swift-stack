@@ -9,5 +9,3 @@ Data structure includes the following methods
 - `top()`
 
 For adding, removing, and reading the Stack respectively
-
-Please read the associated article on my website [here](https://javsolo.codes/reference/data-structures-in-swift-article-0/)
